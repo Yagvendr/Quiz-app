@@ -105,12 +105,14 @@ MONGO_URI=your_mongodb_connection_string
 
 ## 📸 Screenshots
 
-> Add screenshots of your app here (UI, quiz screen, result screen)
-![alt text](<Screenshot 2026-01-22 2042235787587.png>)
----
-![alt text](<Screenshot 2026-01-22 204332.png>)
+### 🏠 Home Screen
+![Quiz App Home Screen – start quiz interface](screenshot/home.png)
 
-![alt text](<Screenshot 2026-01-22 2045344546355.png>)
+### ❓ Quiz Screen
+![Quiz App Question Screen – multiple choice questions with timer](screenshot/quiz.png)
+
+### 🏆 Result Screen
+![Quiz App Result Screen – score and summary](screenshot/result.png)
 
 ## 🌐 API Endpoints (Example)
 
